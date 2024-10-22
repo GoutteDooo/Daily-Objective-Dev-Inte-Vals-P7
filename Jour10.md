@@ -1,6 +1,6 @@
 # Objectifs journaliers
 
-Christopher
+Christopher.
 
 ## Jour 10 (Mercredi 23 Octobre 2024) :
 
